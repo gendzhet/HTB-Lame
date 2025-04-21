@@ -1,1 +1,1 @@
-# HTB-Lame
+# HTB-Lame Write-up (turkish)
